@@ -30,4 +30,4 @@
 ```
 
 ---
-![Dag Graph](./docs/images/img_1.png)
+![Граф задач Airflow](docs/images/img_1.png)
