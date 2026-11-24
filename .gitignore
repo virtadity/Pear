@@ -1,5 +1,22 @@
-.idea/*
-*.iml
+logs/
+*.log
 
-!.idea/vcs.xml
-!.idea/codeStyles/
+.env
+*.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+postgres_data/
+clickhouse_data/
+airflow.db
+airflow.cfg
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

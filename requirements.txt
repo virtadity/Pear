@@ -1,0 +1,6 @@
+clickhouse-connect==0.8.6
+requests==2.32.3
+python-dotenv~=1.2.4
+
+apache-airflow~=3.4.0
+xmltodict~=1.0.4
